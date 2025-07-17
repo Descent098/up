@@ -7,16 +7,22 @@ sites:
     url: https://kieranwood.ca
   - name: Canadian Coding
     url: https://canadiancoding.ca
-  - name: ahd docs
+  - name: The Archive
+    url: https://the-archive.org
+  - name: ahd user docs
     url: https://ahd.readthedocs.io/en/latest/
+  - name: ahd API docs
+    url: https://kieranwood.ca/ahd
   - name: ezcv docs
     url: https://ezcv.readthedocs.io/en/latest/
+  - name: ezcv API docs
+    url: https://kieranwood.ca/ezcv
   - name: Philosophy Blog
     url: https://kieranwood.ca/philosophy
   - name: Tech blog
     url: https://kieranwood.ca/tech
-  - name: Schulich Ignite
-    url: https://schulichignite.com
+  - name: Compsci KB
+    url: https://kieranwood.ca/compsci
 
 
 status-website:
@@ -26,8 +32,8 @@ status-website:
   baseUrl: /up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Here are my sites below and their uptimes"
+  introMessage: This list is not exhaustive, just high priority sites. This page which uses [Upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
