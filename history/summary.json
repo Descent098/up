@@ -42,19 +42,19 @@
     "url": "https://the-archive.org",
     "icon": "https://icons.duckduckgo.com/ip3/the-archive.org.ico",
     "slug": "the-archive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 440,
-    "timeDay": 515,
-    "timeWeek": 422,
+    "timeDay": 461,
+    "timeWeek": 420,
     "timeMonth": 396,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2025-10-07": 0
+      "2025-10-07": 27
     }
   },
   {
