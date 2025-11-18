@@ -1,7 +1,7 @@
 url: https://kieranwood.ca/ahd
-status: up
-code: 200
-responseTime: 59
-lastUpdated: 2025-11-18T12:20:29.626Z
+status: down
+code: 500
+responseTime: 12
+lastUpdated: 2025-11-18T13:06:15.260Z
 startTime: 2025-07-17T06:45:35.463Z
 generator: Upptime <https://github.com/upptime/upptime>
